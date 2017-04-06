@@ -1,6 +1,6 @@
 ;;; sentence-highlight.el --- highlight the current sentence
 
-;; Copyright (C) 2011 Simon Belak <sb@hekovnik.si>
+;; Copyright (C) 2011 Simon Belak <simon.belak@gmail.com>
 ;; All rights reserved.
 
 ;; Redistribution and use in source and binary forms, with or without
@@ -27,7 +27,7 @@
 ;; POSSIBILITY OF SUCH DAMAGE.
 
 ;; Version: 0.1
-;; Author: Simon Belak <sb@hekovnik.si>
+;; Author: Simon Belak <simon.belak@gmail.com>
 ;; Keywords: plain text, writing, highlight, editing, focus
 
 ;; This file is not part of GNU Emacs.
